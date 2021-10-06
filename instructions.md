@@ -15,7 +15,9 @@ To install dependencies open the project directory into terminal and run this co
 ```bash
 composer install
 ```
+**Env file configuration**
 
+Create `.env` copying from `.env.test` file.
 
 ## Usage With Commands
 **Check palindrome:**
